@@ -1,0 +1,3621 @@
+[ {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-12T22:52:06.287Z[UTC]",
+  "searchQuery" : "mijare",
+  "searchInteractionURIs" : [ "spotify:artist:3zhijRRIZX2B6G2T7vJl9p" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-15T08:59:10.507Z[UTC]",
+  "searchQuery" : "rak",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-15T08:59:10.551Z[UTC]",
+  "searchQuery" : "raka",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:17:46.851Z[UTC]",
+  "searchQuery" : "srmilo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-15T10:17:47.375Z[UTC]",
+  "searchQuery" : "srmiloo",
+  "searchInteractionURIs" : [ "spotify:user:93feozmiemr180mc4si7kydf8", "spotify:user:31csiyqe4va7nlgcoljpjtgispdy" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:14.064Z[UTC]",
+  "searchQuery" : "smiloo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.144Z[UTC]",
+  "searchQuery" : "papimaa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.192Z[UTC]",
+  "searchQuery" : "papi sanchez",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.192Z[UTC]",
+  "searchQuery" : "papi malo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.192Z[UTC]",
+  "searchQuery" : "papi masta",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.193Z[UTC]",
+  "searchQuery" : "papicha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.354Z[UTC]",
+  "searchQuery" : "papimaai",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-15T10:18:31.406Z[UTC]",
+  "searchQuery" : "papima",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.642Z[UTC]",
+  "searchQuery" : "papimaail",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:31.812Z[UTC]",
+  "searchQuery" : "papimaailo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-15T10:18:35.058Z[UTC]",
+  "searchQuery" : "papimailo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-19T17:17:35.490Z[UTC]",
+  "searchQuery" : "ojala es",
+  "searchInteractionURIs" : [ "spotify:album:4dNsGjQrtLdHkBIzSYeZsW" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:25:29.281Z[UTC]",
+  "searchQuery" : "r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:25:29.479Z[UTC]",
+  "searchQuery" : "rak",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-20T05:25:32.539Z[UTC]",
+  "searchQuery" : "rakahw",
+  "searchInteractionURIs" : [ "spotify:user:rashid_kahwagi" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:35.773Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:36.049Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:31:36.265Z[UTC]",
+  "searchQuery" : "ta",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:36.300Z[UTC]",
+  "searchQuery" : "ta",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:37.206Z[UTC]",
+  "searchQuery" : "tali",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:37.434Z[UTC]",
+  "searchQuery" : "tali",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:37.513Z[UTC]",
+  "searchQuery" : "talink",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:37.832Z[UTC]",
+  "searchQuery" : "talink",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:40.027Z[UTC]",
+  "searchQuery" : "tal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:40.261Z[UTC]",
+  "searchQuery" : "tal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:41.060Z[UTC]",
+  "searchQuery" : "talki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:41.278Z[UTC]",
+  "searchQuery" : "talki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:41.379Z[UTC]",
+  "searchQuery" : "talkin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:41.574Z[UTC]",
+  "searchQuery" : "talking",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:41.705Z[UTC]",
+  "searchQuery" : "talkin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:41.815Z[UTC]",
+  "searchQuery" : "talking",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:47.396Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:47.633Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:48.001Z[UTC]",
+  "searchQuery" : "do",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:48.228Z[UTC]",
+  "searchQuery" : "do",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:31:48.604Z[UTC]",
+  "searchQuery" : "dose",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:48.644Z[UTC]",
+  "searchQuery" : "dose",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:31:48.656Z[UTC]",
+  "searchQuery" : "dosed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:31:49.004Z[UTC]",
+  "searchQuery" : "dosed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:28.936Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:29.173Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:29.382Z[UTC]",
+  "searchQuery" : "do",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:29.619Z[UTC]",
+  "searchQuery" : "do",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:30.038Z[UTC]",
+  "searchQuery" : "dosed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:33:30.315Z[UTC]",
+  "searchQuery" : "dosed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:33:34.594Z[UTC]",
+  "searchQuery" : "z",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:34.638Z[UTC]",
+  "searchQuery" : "z",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:34.806Z[UTC]",
+  "searchQuery" : "ze",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.434Z[UTC]",
+  "searchQuery" : "zeo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.659Z[UTC]",
+  "searchQuery" : "zeo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.749Z[UTC]",
+  "searchQuery" : "zeoh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.796Z[UTC]",
+  "searchQuery" : "zeph",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.796Z[UTC]",
+  "searchQuery" : "zephyrianna",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.796Z[UTC]",
+  "searchQuery" : "zephyr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.803Z[UTC]",
+  "searchQuery" : "zohan",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35.987Z[UTC]",
+  "searchQuery" : "zeoh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:35Z[UTC]",
+  "searchQuery" : "ze",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:37.554Z[UTC]",
+  "searchQuery" : "ze",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:33:37.761Z[UTC]",
+  "searchQuery" : "ze",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:33:38.613Z[UTC]",
+  "searchQuery" : "zep",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:33:38.771Z[UTC]",
+  "searchQuery" : "zep",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:42.390Z[UTC]",
+  "searchQuery" : "ll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:42.637Z[UTC]",
+  "searchQuery" : "ll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:42.906Z[UTC]",
+  "searchQuery" : "lle",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:43.125Z[UTC]",
+  "searchQuery" : "lle",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:43.340Z[UTC]",
+  "searchQuery" : "llev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:43.581Z[UTC]",
+  "searchQuery" : "llev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:43.635Z[UTC]",
+  "searchQuery" : "lleva",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:43.843Z[UTC]",
+  "searchQuery" : "lleva",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:44.281Z[UTC]",
+  "searchQuery" : "llevam",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:44.547Z[UTC]",
+  "searchQuery" : "llevam",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:44.559Z[UTC]",
+  "searchQuery" : "llevame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:46:44.926Z[UTC]",
+  "searchQuery" : "llevame",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:46.231Z[UTC]",
+  "searchQuery" : "llevame ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:46.578Z[UTC]",
+  "searchQuery" : "llevame ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:46.879Z[UTC]",
+  "searchQuery" : "llevame des",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:47.159Z[UTC]",
+  "searchQuery" : "llevame des",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:51.755Z[UTC]",
+  "searchQuery" : "nun",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:51.939Z[UTC]",
+  "searchQuery" : "nun",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:52.162Z[UTC]",
+  "searchQuery" : "nunc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:52.424Z[UTC]",
+  "searchQuery" : "nunc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:53.164Z[UTC]",
+  "searchQuery" : "nunca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:53.367Z[UTC]",
+  "searchQuery" : "nunca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:53.475Z[UTC]",
+  "searchQuery" : "nunca ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:53.694Z[UTC]",
+  "searchQuery" : "nunca ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:54.414Z[UTC]",
+  "searchQuery" : "nunca d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:54.738Z[UTC]",
+  "searchQuery" : "nunca d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:55.217Z[UTC]",
+  "searchQuery" : "nunca dij",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:55.487Z[UTC]",
+  "searchQuery" : "nunca dij",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:55.508Z[UTC]",
+  "searchQuery" : "nunca dije",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:46:55.757Z[UTC]",
+  "searchQuery" : "nunca dije",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:01.998Z[UTC]",
+  "searchQuery" : "p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:02.223Z[UTC]",
+  "searchQuery" : "p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:02.464Z[UTC]",
+  "searchQuery" : "pa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:02.678Z[UTC]",
+  "searchQuery" : "pa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:03.483Z[UTC]",
+  "searchQuery" : "para ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:47:03.672Z[UTC]",
+  "searchQuery" : "para",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:03.702Z[UTC]",
+  "searchQuery" : "para ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:03.740Z[UTC]",
+  "searchQuery" : "para",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:04.472Z[UTC]",
+  "searchQuery" : "para s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:04.696Z[UTC]",
+  "searchQuery" : "para s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:05.636Z[UTC]",
+  "searchQuery" : "para si",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:05.744Z[UTC]",
+  "searchQuery" : "para sie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:05.840Z[UTC]",
+  "searchQuery" : "para si",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:05.960Z[UTC]",
+  "searchQuery" : "para sie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:47.760Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:47.978Z[UTC]",
+  "searchQuery" : "as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:48.007Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:48.196Z[UTC]",
+  "searchQuery" : "as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:47:48.650Z[UTC]",
+  "searchQuery" : "asi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:48.682Z[UTC]",
+  "searchQuery" : "asi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:48.702Z[UTC]",
+  "searchQuery" : "asi ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:48.889Z[UTC]",
+  "searchQuery" : "asi ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:49.021Z[UTC]",
+  "searchQuery" : "asi f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:49.226Z[UTC]",
+  "searchQuery" : "asi f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:49.537Z[UTC]",
+  "searchQuery" : "asi fu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:49.847Z[UTC]",
+  "searchQuery" : "asi fu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T05:47:49.903Z[UTC]",
+  "searchQuery" : "asi fue",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-20T05:47:50.262Z[UTC]",
+  "searchQuery" : "asi fue",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:01:52.269Z[UTC]",
+  "searchQuery" : "L",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:01:52.395Z[UTC]",
+  "searchQuery" : "La",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:01:52.563Z[UTC]",
+  "searchQuery" : "La",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:01:52.661Z[UTC]",
+  "searchQuery" : "La",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:01:52.802Z[UTC]",
+  "searchQuery" : "La c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:01:52.812Z[UTC]",
+  "searchQuery" : "La",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:01:52.981Z[UTC]",
+  "searchQuery" : "La c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:01:53.004Z[UTC]",
+  "searchQuery" : "La ch",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:01:53.186Z[UTC]",
+  "searchQuery" : "La chi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:04:30.452Z[UTC]",
+  "searchQuery" : "E",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:04:30.864Z[UTC]",
+  "searchQuery" : "Es",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:04:31.216Z[UTC]",
+  "searchQuery" : "Est",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:04:31.414Z[UTC]",
+  "searchQuery" : "Esto",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:04:31.603Z[UTC]",
+  "searchQuery" : "Estos",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:09:31.312Z[UTC]",
+  "searchQuery" : "T",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:09:32.362Z[UTC]",
+  "searchQuery" : "Tu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:09:32.512Z[UTC]",
+  "searchQuery" : "Tu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:09:32.714Z[UTC]",
+  "searchQuery" : "Tuy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:10.032Z[UTC]",
+  "searchQuery" : "P",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:10.259Z[UTC]",
+  "searchQuery" : "Ps",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:10.498Z[UTC]",
+  "searchQuery" : "Psr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:10.660Z[UTC]",
+  "searchQuery" : "Psrt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:10.989Z[UTC]",
+  "searchQuery" : "Psrty",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:12.320Z[UTC]",
+  "searchQuery" : "Psrty",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:16.719Z[UTC]",
+  "searchQuery" : "W",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:16.868Z[UTC]",
+  "searchQuery" : "Wh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:17.064Z[UTC]",
+  "searchQuery" : "Wha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:17.195Z[UTC]",
+  "searchQuery" : "What",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:17.233Z[UTC]",
+  "searchQuery" : "Whats",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:17.421Z[UTC]",
+  "searchQuery" : "Whats",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:24.563Z[UTC]",
+  "searchQuery" : "H",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:24.711Z[UTC]",
+  "searchQuery" : "Ha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:24.923Z[UTC]",
+  "searchQuery" : "Hab",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:24.996Z[UTC]",
+  "searchQuery" : "Habd",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:25.139Z[UTC]",
+  "searchQuery" : "Habds",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:25.462Z[UTC]",
+  "searchQuery" : "Habds",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:25.462Z[UTC]",
+  "searchQuery" : "Habds t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:25.500Z[UTC]",
+  "searchQuery" : "Habds to",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:25.944Z[UTC]",
+  "searchQuery" : "Habds to",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:28.707Z[UTC]",
+  "searchQuery" : "B",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:29.064Z[UTC]",
+  "searchQuery" : "Br",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:29.201Z[UTC]",
+  "searchQuery" : "Bro",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:29.435Z[UTC]",
+  "searchQuery" : "Brok",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:29.553Z[UTC]",
+  "searchQuery" : "Broke",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:29.765Z[UTC]",
+  "searchQuery" : "Broken",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:31.347Z[UTC]",
+  "searchQuery" : "Broken",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:31.779Z[UTC]",
+  "searchQuery" : "Broken c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:34.301Z[UTC]",
+  "searchQuery" : "Broken cl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:42.267Z[UTC]",
+  "searchQuery" : "N",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:42.428Z[UTC]",
+  "searchQuery" : "No",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:17:42.578Z[UTC]",
+  "searchQuery" : "No",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:42.685Z[UTC]",
+  "searchQuery" : "No",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:42.802Z[UTC]",
+  "searchQuery" : "No t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:17:42.963Z[UTC]",
+  "searchQuery" : "No t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:43.153Z[UTC]",
+  "searchQuery" : "No te",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:43.320Z[UTC]",
+  "searchQuery" : "No tea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:43.528Z[UTC]",
+  "searchQuery" : "No tear",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:43.835Z[UTC]",
+  "searchQuery" : "No teard",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:43.888Z[UTC]",
+  "searchQuery" : "No teard",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:50.155Z[UTC]",
+  "searchQuery" : "B",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:17:50.305Z[UTC]",
+  "searchQuery" : "B",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:50.330Z[UTC]",
+  "searchQuery" : "Br",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:50.520Z[UTC]",
+  "searchQuery" : "Bre",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:50.779Z[UTC]",
+  "searchQuery" : "Brea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:50.894Z[UTC]",
+  "searchQuery" : "Break",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:51.240Z[UTC]",
+  "searchQuery" : "Break",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:51.261Z[UTC]",
+  "searchQuery" : "Break m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:56.301Z[UTC]",
+  "searchQuery" : "W",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:56.507Z[UTC]",
+  "searchQuery" : "Wh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:56.695Z[UTC]",
+  "searchQuery" : "Whr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:17:56.863Z[UTC]",
+  "searchQuery" : "Whre",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:03.096Z[UTC]",
+  "searchQuery" : "G",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:03.302Z[UTC]",
+  "searchQuery" : "Go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:03.488Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:18:03.650Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:03.866Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:04.252Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:18:04.405Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:04.594Z[UTC]",
+  "searchQuery" : "Good",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:04.701Z[UTC]",
+  "searchQuery" : "Good",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:05.040Z[UTC]",
+  "searchQuery" : "Good l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:05.117Z[UTC]",
+  "searchQuery" : "Good lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:14.183Z[UTC]",
+  "searchQuery" : "K",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:14.388Z[UTC]",
+  "searchQuery" : "Ki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:14.540Z[UTC]",
+  "searchQuery" : "Kis",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:14.754Z[UTC]",
+  "searchQuery" : "Kiss",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:14.943Z[UTC]",
+  "searchQuery" : "Kiss",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:15.127Z[UTC]",
+  "searchQuery" : "Kiss m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:15.209Z[UTC]",
+  "searchQuery" : "Kiss me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:15.332Z[UTC]",
+  "searchQuery" : "Kiss me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:18:15.495Z[UTC]",
+  "searchQuery" : "Kiss me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:15.718Z[UTC]",
+  "searchQuery" : "Kiss me m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:22.591Z[UTC]",
+  "searchQuery" : "K",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:22.774Z[UTC]",
+  "searchQuery" : "Ki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:22.969Z[UTC]",
+  "searchQuery" : "Kis",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:23.039Z[UTC]",
+  "searchQuery" : "Kiss",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:23.187Z[UTC]",
+  "searchQuery" : "Kisss",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:43.626Z[UTC]",
+  "searchQuery" : "C",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:43.818Z[UTC]",
+  "searchQuery" : "Ch",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:44.104Z[UTC]",
+  "searchQuery" : "Chs",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:44.239Z[UTC]",
+  "searchQuery" : "Chsn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:44.274Z[UTC]",
+  "searchQuery" : "Chsne",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:44.588Z[UTC]",
+  "searchQuery" : "Chsnel",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:47.669Z[UTC]",
+  "searchQuery" : "L",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:48.058Z[UTC]",
+  "searchQuery" : "Lu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:48.079Z[UTC]",
+  "searchQuery" : "Lus",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:48.237Z[UTC]",
+  "searchQuery" : "Lush",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:59.527Z[UTC]",
+  "searchQuery" : "P",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:18:59.959Z[UTC]",
+  "searchQuery" : "Ph",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:00.169Z[UTC]",
+  "searchQuery" : "Phy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:00.334Z[UTC]",
+  "searchQuery" : "Phys",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:03.567Z[UTC]",
+  "searchQuery" : "G",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:03.700Z[UTC]",
+  "searchQuery" : "Go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:03.924Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:04.040Z[UTC]",
+  "searchQuery" : "Good",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:04.132Z[UTC]",
+  "searchQuery" : "Good",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:04.303Z[UTC]",
+  "searchQuery" : "Good a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:04.476Z[UTC]",
+  "searchQuery" : "Good as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:04.544Z[UTC]",
+  "searchQuery" : "Good as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:12.269Z[UTC]",
+  "searchQuery" : "K",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:12.428Z[UTC]",
+  "searchQuery" : "Ki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:12.648Z[UTC]",
+  "searchQuery" : "Kil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:12.802Z[UTC]",
+  "searchQuery" : "Kill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:13.168Z[UTC]",
+  "searchQuery" : "Kill",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:14.547Z[UTC]",
+  "searchQuery" : "Kill b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:19:14.866Z[UTC]",
+  "searchQuery" : "Kill b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:18.350Z[UTC]",
+  "searchQuery" : "N",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:18.687Z[UTC]",
+  "searchQuery" : "Ne",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:18.822Z[UTC]",
+  "searchQuery" : "New",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:19:18.845Z[UTC]",
+  "searchQuery" : "Ne",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:19.029Z[UTC]",
+  "searchQuery" : "New",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:19.184Z[UTC]",
+  "searchQuery" : "New r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:28.036Z[UTC]",
+  "searchQuery" : "G",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:28.238Z[UTC]",
+  "searchQuery" : "Go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:28.437Z[UTC]",
+  "searchQuery" : "Goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:28.656Z[UTC]",
+  "searchQuery" : "Good",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:28.828Z[UTC]",
+  "searchQuery" : "Good",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:29.002Z[UTC]",
+  "searchQuery" : "Good d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:37.349Z[UTC]",
+  "searchQuery" : "W",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:37.463Z[UTC]",
+  "searchQuery" : "Wo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:37.697Z[UTC]",
+  "searchQuery" : "Wom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:37.791Z[UTC]",
+  "searchQuery" : "Woma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:37.901Z[UTC]",
+  "searchQuery" : "Woman",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:19:38Z[UTC]",
+  "searchQuery" : "Woma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:41.773Z[UTC]",
+  "searchQuery" : "V",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:41.984Z[UTC]",
+  "searchQuery" : "Vo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:42.201Z[UTC]",
+  "searchQuery" : "Voy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:42.324Z[UTC]",
+  "searchQuery" : "Voys",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:45.340Z[UTC]",
+  "searchQuery" : "B",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:45.565Z[UTC]",
+  "searchQuery" : "Bo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:45.802Z[UTC]",
+  "searchQuery" : "Boy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:45.919Z[UTC]",
+  "searchQuery" : "Boys",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:52.464Z[UTC]",
+  "searchQuery" : "G",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:52.793Z[UTC]",
+  "searchQuery" : "Ga",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:52.919Z[UTC]",
+  "searchQuery" : "Gas",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:53.023Z[UTC]",
+  "searchQuery" : "Gaso",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:53.267Z[UTC]",
+  "searchQuery" : "Gasol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:53.370Z[UTC]",
+  "searchQuery" : "Gasoli",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:53.604Z[UTC]",
+  "searchQuery" : "Gasolin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:53.642Z[UTC]",
+  "searchQuery" : "Gasoline",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:58.659Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:59.679Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:19:59.896Z[UTC]",
+  "searchQuery" : "Mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:00.083Z[UTC]",
+  "searchQuery" : "Mil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:01.012Z[UTC]",
+  "searchQuery" : "Mils",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:20:01.188Z[UTC]",
+  "searchQuery" : "Mils",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:07.598Z[UTC]",
+  "searchQuery" : "E",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:07.796Z[UTC]",
+  "searchQuery" : "Es",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:07.957Z[UTC]",
+  "searchQuery" : "Esp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:08.144Z[UTC]",
+  "searchQuery" : "Espr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:08.321Z[UTC]",
+  "searchQuery" : "Espre",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:08.503Z[UTC]",
+  "searchQuery" : "Espres",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:14.503Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:14.602Z[UTC]",
+  "searchQuery" : "Ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:14.970Z[UTC]",
+  "searchQuery" : "Man",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:34.154Z[UTC]",
+  "searchQuery" : "W",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:34.284Z[UTC]",
+  "searchQuery" : "Wi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:34.560Z[UTC]",
+  "searchQuery" : "Wil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:34.680Z[UTC]",
+  "searchQuery" : "Wild",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-20T08:20:35.050Z[UTC]",
+  "searchQuery" : "Wildf",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-20T08:20:35.214Z[UTC]",
+  "searchQuery" : "Wildf",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-24T07:57:06.368Z[UTC]",
+  "searchQuery" : "ra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-02T04:15:49.448Z[UTC]",
+  "searchQuery" : "emil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-03-02T04:16:02.017Z[UTC]",
+  "searchQuery" : "sesma",
+  "searchInteractionURIs" : [ "spotify:artist:78AqYJOIprPijr5tBY36Ov", "spotify:user:1286098153", "spotify:user:sesmachine1", "spotify:user:31fmt7panoqn4vizp2n44p7mzve4", "spotify:user:0ip5jb4ol2rjjs0sggzwvh0jg", "spotify:user:31pcoegnfm7z6jftq7rtprjk7pfy", "spotify:user:1o808d1aeh8aeqk98tl1mwx3k" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-02T04:17:34.226Z[UTC]",
+  "searchQuery" : "emisesma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-03-02T04:17:35.021Z[UTC]",
+  "searchQuery" : "emi sesma",
+  "searchInteractionURIs" : [ "spotify:user:sesma1397", "spotify:user:31vegpmytlfxt72ulxb3ehqzmxja" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-02T04:18:18.047Z[UTC]",
+  "searchQuery" : "e sesma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-03-09T06:27:37.580Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-03-09T06:28:26.030Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:52.278Z[UTC]",
+  "searchQuery" : "O",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:53.128Z[UTC]",
+  "searchQuery" : "Ou",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:53.832Z[UTC]",
+  "searchQuery" : "Out",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:53.975Z[UTC]",
+  "searchQuery" : "Outs",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:57.660Z[UTC]",
+  "searchQuery" : "R",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:57.805Z[UTC]",
+  "searchQuery" : "Ro",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:57.961Z[UTC]",
+  "searchQuery" : "Roc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:58.053Z[UTC]",
+  "searchQuery" : "Rock",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:58.273Z[UTC]",
+  "searchQuery" : "Rock",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:58.498Z[UTC]",
+  "searchQuery" : "Rock t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:58.682Z[UTC]",
+  "searchQuery" : "Rock th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:58.816Z[UTC]",
+  "searchQuery" : "Rock tha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:32:58.824Z[UTC]",
+  "searchQuery" : "Rock that",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:32:58.886Z[UTC]",
+  "searchQuery" : "Rock t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:32:59.165Z[UTC]",
+  "searchQuery" : "Rock that",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:04.067Z[UTC]",
+  "searchQuery" : "J",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:04.298Z[UTC]",
+  "searchQuery" : "Ju",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:04.633Z[UTC]",
+  "searchQuery" : "Jud",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:04.845Z[UTC]",
+  "searchQuery" : "Juda",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:04.955Z[UTC]",
+  "searchQuery" : "Judas",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:13.140Z[UTC]",
+  "searchQuery" : "W",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:13.336Z[UTC]",
+  "searchQuery" : "Wh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:13.485Z[UTC]",
+  "searchQuery" : "Whe",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:13.653Z[UTC]",
+  "searchQuery" : "Wher",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:14.139Z[UTC]",
+  "searchQuery" : "Where",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:14.142Z[UTC]",
+  "searchQuery" : "Where h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:14.143Z[UTC]",
+  "searchQuery" : "Where",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:33:14.407Z[UTC]",
+  "searchQuery" : "Where",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:17.307Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:17.636Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:17.698Z[UTC]",
+  "searchQuery" : "I f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:17.971Z[UTC]",
+  "searchQuery" : "I fo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:18.216Z[UTC]",
+  "searchQuery" : "I fol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:18.276Z[UTC]",
+  "searchQuery" : "I foll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:18.511Z[UTC]",
+  "searchQuery" : "I follo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:24.377Z[UTC]",
+  "searchQuery" : "O",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:24.590Z[UTC]",
+  "searchQuery" : "On",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:24.675Z[UTC]",
+  "searchQuery" : "One",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:24.789Z[UTC]",
+  "searchQuery" : "One",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:33:24.859Z[UTC]",
+  "searchQuery" : "One",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:24.920Z[UTC]",
+  "searchQuery" : "One k",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:28.058Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:28.287Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:28.477Z[UTC]",
+  "searchQuery" : "I g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:28.606Z[UTC]",
+  "searchQuery" : "I go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:28.639Z[UTC]",
+  "searchQuery" : "I got",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:28.810Z[UTC]",
+  "searchQuery" : "I got",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:30.502Z[UTC]",
+  "searchQuery" : "I got y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:30.745Z[UTC]",
+  "searchQuery" : "I got yo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:31.584Z[UTC]",
+  "searchQuery" : "I got you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:39.705Z[UTC]",
+  "searchQuery" : "A",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:39.906Z[UTC]",
+  "searchQuery" : "Ad",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:40.063Z[UTC]",
+  "searchQuery" : "Adv",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:40.150Z[UTC]",
+  "searchQuery" : "Adve",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:40.327Z[UTC]",
+  "searchQuery" : "Adven",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:40.483Z[UTC]",
+  "searchQuery" : "Advent",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:40.551Z[UTC]",
+  "searchQuery" : "Adventu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:44.021Z[UTC]",
+  "searchQuery" : "B",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:44.137Z[UTC]",
+  "searchQuery" : "Ba",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:44.481Z[UTC]",
+  "searchQuery" : "Bad",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:44.576Z[UTC]",
+  "searchQuery" : "Bad",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:44.629Z[UTC]",
+  "searchQuery" : "Bad r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:44.793Z[UTC]",
+  "searchQuery" : "Bad ro",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:50.839Z[UTC]",
+  "searchQuery" : "B",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:50.912Z[UTC]",
+  "searchQuery" : "Be",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:51.169Z[UTC]",
+  "searchQuery" : "Bea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:33:51.178Z[UTC]",
+  "searchQuery" : "Be",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:51.299Z[UTC]",
+  "searchQuery" : "Beau",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:51.494Z[UTC]",
+  "searchQuery" : "Beaut",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:51.740Z[UTC]",
+  "searchQuery" : "Beauty",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:33:51.787Z[UTC]",
+  "searchQuery" : "Beaut",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:56.263Z[UTC]",
+  "searchQuery" : "H",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:56.425Z[UTC]",
+  "searchQuery" : "Ho",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:56.579Z[UTC]",
+  "searchQuery" : "How",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:56.717Z[UTC]",
+  "searchQuery" : "How",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:56.973Z[UTC]",
+  "searchQuery" : "How d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:57.131Z[UTC]",
+  "searchQuery" : "How de",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:57.269Z[UTC]",
+  "searchQuery" : "How dee",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:57.387Z[UTC]",
+  "searchQuery" : "How deep",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:33:57.689Z[UTC]",
+  "searchQuery" : "How deep",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:04.361Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:04.539Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:04.712Z[UTC]",
+  "searchQuery" : "I c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:04.893Z[UTC]",
+  "searchQuery" : "I cr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:08.196Z[UTC]",
+  "searchQuery" : "L",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:08.354Z[UTC]",
+  "searchQuery" : "Lo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:08.609Z[UTC]",
+  "searchQuery" : "Lov",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:08.817Z[UTC]",
+  "searchQuery" : "Love",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:08.818Z[UTC]",
+  "searchQuery" : "Love",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:08.933Z[UTC]",
+  "searchQuery" : "Love m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:09.090Z[UTC]",
+  "searchQuery" : "Love me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:09.134Z[UTC]",
+  "searchQuery" : "Love me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:09.407Z[UTC]",
+  "searchQuery" : "Love me a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:09.506Z[UTC]",
+  "searchQuery" : "Love me ag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:17.162Z[UTC]",
+  "searchQuery" : "D",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:17.324Z[UTC]",
+  "searchQuery" : "Do",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:17.472Z[UTC]",
+  "searchQuery" : "Don",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:17.578Z[UTC]",
+  "searchQuery" : "Dont",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:17.711Z[UTC]",
+  "searchQuery" : "Dont",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:17.750Z[UTC]",
+  "searchQuery" : "Dont y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:18.189Z[UTC]",
+  "searchQuery" : "Dont yo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:18.192Z[UTC]",
+  "searchQuery" : "Dont you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:26.942Z[UTC]",
+  "searchQuery" : "W",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.143Z[UTC]",
+  "searchQuery" : "Wa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.338Z[UTC]",
+  "searchQuery" : "Wak",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.374Z[UTC]",
+  "searchQuery" : "Wake",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.593Z[UTC]",
+  "searchQuery" : "Wake",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.742Z[UTC]",
+  "searchQuery" : "Wake me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.743Z[UTC]",
+  "searchQuery" : "Wake m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:27.829Z[UTC]",
+  "searchQuery" : "Wake me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.010Z[UTC]",
+  "searchQuery" : "F",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.196Z[UTC]",
+  "searchQuery" : "Fe",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.383Z[UTC]",
+  "searchQuery" : "Fee",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.452Z[UTC]",
+  "searchQuery" : "Feel",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.879Z[UTC]",
+  "searchQuery" : "Feel s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.879Z[UTC]",
+  "searchQuery" : "Feel",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:31.924Z[UTC]",
+  "searchQuery" : "Feel so",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:34:32.159Z[UTC]",
+  "searchQuery" : "Feel s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:37.311Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:37.494Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:37.680Z[UTC]",
+  "searchQuery" : "I g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:37.732Z[UTC]",
+  "searchQuery" : "I go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:37.890Z[UTC]",
+  "searchQuery" : "I goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:38.032Z[UTC]",
+  "searchQuery" : "I goot",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:38.656Z[UTC]",
+  "searchQuery" : "I goo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:38.841Z[UTC]",
+  "searchQuery" : "I go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:39.050Z[UTC]",
+  "searchQuery" : "I got",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:39.150Z[UTC]",
+  "searchQuery" : "I gott",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:44.080Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:44.330Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:44.467Z[UTC]",
+  "searchQuery" : "I a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:44.585Z[UTC]",
+  "searchQuery" : "I ad",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:44.885Z[UTC]",
+  "searchQuery" : "I ado",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:44.890Z[UTC]",
+  "searchQuery" : "I ador",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:45.062Z[UTC]",
+  "searchQuery" : "I adore",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:34:45.187Z[UTC]",
+  "searchQuery" : "I ador",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:45.391Z[UTC]",
+  "searchQuery" : "I adore",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:45.647Z[UTC]",
+  "searchQuery" : "I adore y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:52.160Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:52.277Z[UTC]",
+  "searchQuery" : "Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:52.661Z[UTC]",
+  "searchQuery" : "Mea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:53.282Z[UTC]",
+  "searchQuery" : "Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:34:53.492Z[UTC]",
+  "searchQuery" : "Me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:53.698Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:53.868Z[UTC]",
+  "searchQuery" : "Ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:54.073Z[UTC]",
+  "searchQuery" : "Mar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:54.256Z[UTC]",
+  "searchQuery" : "Mare",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:57.602Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:57.769Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:57.869Z[UTC]",
+  "searchQuery" : "I t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:58.026Z[UTC]",
+  "searchQuery" : "I to",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:34:58.405Z[UTC]",
+  "searchQuery" : "I too",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:05.457Z[UTC]",
+  "searchQuery" : "T",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:05.635Z[UTC]",
+  "searchQuery" : "Th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:05.876Z[UTC]",
+  "searchQuery" : "Thi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:05.879Z[UTC]",
+  "searchQuery" : "This",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:06.019Z[UTC]",
+  "searchQuery" : "This",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:35:06.065Z[UTC]",
+  "searchQuery" : "This",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:06.277Z[UTC]",
+  "searchQuery" : "This is",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:06.282Z[UTC]",
+  "searchQuery" : "This i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:35:06.558Z[UTC]",
+  "searchQuery" : "This i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:08.498Z[UTC]",
+  "searchQuery" : "This is",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:08.748Z[UTC]",
+  "searchQuery" : "This is w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:10.912Z[UTC]",
+  "searchQuery" : "This is wh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:11.032Z[UTC]",
+  "searchQuery" : "This is wha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:14.584Z[UTC]",
+  "searchQuery" : "N",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:14.771Z[UTC]",
+  "searchQuery" : "Nu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:14.964Z[UTC]",
+  "searchQuery" : "Nue",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:14.995Z[UTC]",
+  "searchQuery" : "Nuev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:15.131Z[UTC]",
+  "searchQuery" : "Nueva",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:15.214Z[UTC]",
+  "searchQuery" : "Nueva",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:30.445Z[UTC]",
+  "searchQuery" : "L",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:30.549Z[UTC]",
+  "searchQuery" : "Le",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:30.961Z[UTC]",
+  "searchQuery" : "Lea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:30.967Z[UTC]",
+  "searchQuery" : "Lean",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:31.026Z[UTC]",
+  "searchQuery" : "Lean",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:35:31.139Z[UTC]",
+  "searchQuery" : "Lea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:37.672Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:37.831Z[UTC]",
+  "searchQuery" : "Mo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:35:37.862Z[UTC]",
+  "searchQuery" : "M",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:38.161Z[UTC]",
+  "searchQuery" : "Move",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:38.191Z[UTC]",
+  "searchQuery" : "Mov",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:38.291Z[UTC]",
+  "searchQuery" : "Move",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:40.942Z[UTC]",
+  "searchQuery" : "S",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:41.073Z[UTC]",
+  "searchQuery" : "So",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:35:41.144Z[UTC]",
+  "searchQuery" : "S",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:41.223Z[UTC]",
+  "searchQuery" : "Sol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-03-24T18:35:41.437Z[UTC]",
+  "searchQuery" : "Sol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:41.523Z[UTC]",
+  "searchQuery" : "Solo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:41.671Z[UTC]",
+  "searchQuery" : "Solom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-24T18:35:41.947Z[UTC]",
+  "searchQuery" : "Solomo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-03-24T18:35:57.960Z[UTC]",
+  "searchQuery" : "solom",
+  "searchInteractionURIs" : [ "spotify:search:solomun" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-03-24T18:35:59.849Z[UTC]",
+  "searchQuery" : "solomun",
+  "searchInteractionURIs" : [ "spotify:artist:5wJK4kQAkVGjqM9x46KQOC" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:17.200Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:17.752Z[UTC]",
+  "searchQuery" : "fo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:18.136Z[UTC]",
+  "searchQuery" : "for",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:18.489Z[UTC]",
+  "searchQuery" : "forn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:18.689Z[UTC]",
+  "searchQuery" : "forni",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:18.934Z[UTC]",
+  "searchQuery" : "fornit",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:19.198Z[UTC]",
+  "searchQuery" : "fornite",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:20.061Z[UTC]",
+  "searchQuery" : "fornite",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:20.368Z[UTC]",
+  "searchQuery" : "fornite",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:46:25.311Z[UTC]",
+  "searchQuery" : "fornite",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-03-27T17:48:44.067Z[UTC]",
+  "searchQuery" : "fornite",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-01T00:53:01.100Z[UTC]",
+  "searchQuery" : "sweater weather ",
+  "searchInteractionURIs" : [ "spotify:track:6jhzQyn6cwPHc85PE4qBp0" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-01T00:53:24.470Z[UTC]",
+  "searchQuery" : "sweater weather acusti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-01T00:53:24.843Z[UTC]",
+  "searchQuery" : "sweater weather acustic",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-01T00:53:25.314Z[UTC]",
+  "searchQuery" : "sweater weather acustic",
+  "searchInteractionURIs" : [ "spotify:track:7sDzAu7alAL1hWvL86tSGB", "spotify:track:7sDzAu7alAL1hWvL86tSGB", "spotify:playlist:37i9dQZF1DX0rCrO4CFRfM" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:32.054Z[UTC]",
+  "searchQuery" : "S",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:32.425Z[UTC]",
+  "searchQuery" : "Si",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:32.465Z[UTC]",
+  "searchQuery" : "Sig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:32.568Z[UTC]",
+  "searchQuery" : "Sign",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:32.955Z[UTC]",
+  "searchQuery" : "Sign",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:32.983Z[UTC]",
+  "searchQuery" : "Sign o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:33.133Z[UTC]",
+  "searchQuery" : "Sign of",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:38.416Z[UTC]",
+  "searchQuery" : "V",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:38.618Z[UTC]",
+  "searchQuery" : "Vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:38.795Z[UTC]",
+  "searchQuery" : "Vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:39.023Z[UTC]",
+  "searchQuery" : "Vien",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:44.977Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:45.212Z[UTC]",
+  "searchQuery" : "If",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:45.352Z[UTC]",
+  "searchQuery" : "If",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:45.742Z[UTC]",
+  "searchQuery" : "If i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:45.755Z[UTC]",
+  "searchQuery" : "If i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:48.200Z[UTC]",
+  "searchQuery" : "If i c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:48.519Z[UTC]",
+  "searchQuery" : "If i ca",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:48.702Z[UTC]",
+  "searchQuery" : "If i can",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:56.363Z[UTC]",
+  "searchQuery" : "N",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:56.715Z[UTC]",
+  "searchQuery" : "No",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:57.786Z[UTC]",
+  "searchQuery" : "Nov",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:57.929Z[UTC]",
+  "searchQuery" : "Nove",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:58.165Z[UTC]",
+  "searchQuery" : "Novem",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:51:58.329Z[UTC]",
+  "searchQuery" : "Novemb",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:06.279Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-03T06:52:06.458Z[UTC]",
+  "searchQuery" : "I",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:06.494Z[UTC]",
+  "searchQuery" : "Im",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:06.861Z[UTC]",
+  "searchQuery" : "Ima",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:06.862Z[UTC]",
+  "searchQuery" : "Imag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:08.925Z[UTC]",
+  "searchQuery" : "Imagi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:09.139Z[UTC]",
+  "searchQuery" : "Imagin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:09.280Z[UTC]",
+  "searchQuery" : "Imagine",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:15.492Z[UTC]",
+  "searchQuery" : "T",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:15.666Z[UTC]",
+  "searchQuery" : "Th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-03T06:52:15.852Z[UTC]",
+  "searchQuery" : "Th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:15.874Z[UTC]",
+  "searchQuery" : "The",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:16.035Z[UTC]",
+  "searchQuery" : "The",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:16.070Z[UTC]",
+  "searchQuery" : "The s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:21.984Z[UTC]",
+  "searchQuery" : "R",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:22.159Z[UTC]",
+  "searchQuery" : "Ro",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:22.341Z[UTC]",
+  "searchQuery" : "Roc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:22.406Z[UTC]",
+  "searchQuery" : "Rock",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:22.571Z[UTC]",
+  "searchQuery" : "Rocke",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:22.937Z[UTC]",
+  "searchQuery" : "Rocket",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:27.447Z[UTC]",
+  "searchQuery" : "S",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:27.908Z[UTC]",
+  "searchQuery" : "St",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:28.323Z[UTC]",
+  "searchQuery" : "Stu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:28.669Z[UTC]",
+  "searchQuery" : "Stux",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:28.671Z[UTC]",
+  "searchQuery" : "Stuxk",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:30.208Z[UTC]",
+  "searchQuery" : "Stux",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:30.419Z[UTC]",
+  "searchQuery" : "Stu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:31.157Z[UTC]",
+  "searchQuery" : "Stuc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:31.228Z[UTC]",
+  "searchQuery" : "Stuck",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:31.424Z[UTC]",
+  "searchQuery" : "Stuck",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:31.622Z[UTC]",
+  "searchQuery" : "Stuck i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T06:52:31.816Z[UTC]",
+  "searchQuery" : "Stuck in",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-03T06:52:31.881Z[UTC]",
+  "searchQuery" : "Stuck i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:19:36.834Z[UTC]",
+  "searchQuery" : "D",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:19:37.022Z[UTC]",
+  "searchQuery" : "De",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:19:37.285Z[UTC]",
+  "searchQuery" : "Dec",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:19:37.381Z[UTC]",
+  "searchQuery" : "Deco",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:19:37.719Z[UTC]",
+  "searchQuery" : "Decod",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:46.169Z[UTC]",
+  "searchQuery" : "C",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:46.323Z[UTC]",
+  "searchQuery" : "Co",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-03T07:23:46.479Z[UTC]",
+  "searchQuery" : "Co",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:46.663Z[UTC]",
+  "searchQuery" : "Con",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:47.028Z[UTC]",
+  "searchQuery" : "Con",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:47.061Z[UTC]",
+  "searchQuery" : "Con o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:47.429Z[UTC]",
+  "searchQuery" : "Con ot",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:47.435Z[UTC]",
+  "searchQuery" : "Con otr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:57.712Z[UTC]",
+  "searchQuery" : "L",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:57.834Z[UTC]",
+  "searchQuery" : "La",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:57.919Z[UTC]",
+  "searchQuery" : "La",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:58.271Z[UTC]",
+  "searchQuery" : "La p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:58.273Z[UTC]",
+  "searchQuery" : "La pe",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:58.416Z[UTC]",
+  "searchQuery" : "La per",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-03T07:23:58.438Z[UTC]",
+  "searchQuery" : "La pe",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:23:58.626Z[UTC]",
+  "searchQuery" : "La perl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:01.571Z[UTC]",
+  "searchQuery" : "O",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:01.918Z[UTC]",
+  "searchQuery" : "Oy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:02.027Z[UTC]",
+  "searchQuery" : "Oye",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:12.730Z[UTC]",
+  "searchQuery" : "S",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:13.144Z[UTC]",
+  "searchQuery" : "St",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:13.300Z[UTC]",
+  "searchQuery" : "Sti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:13.494Z[UTC]",
+  "searchQuery" : "Stil",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:13.677Z[UTC]",
+  "searchQuery" : "Still",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:13.884Z[UTC]",
+  "searchQuery" : "Still",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-03T07:24:14.120Z[UTC]",
+  "searchQuery" : "Still l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-20T06:36:45.537Z[UTC]",
+  "searchQuery" : "sebastian bedol",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-20T06:48:59.936Z[UTC]",
+  "searchQuery" : "eugenio diaz raimond",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T06:49:08.292Z[UTC]",
+  "searchQuery" : "eugenio diaz raimond",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T06:49:20.381Z[UTC]",
+  "searchQuery" : "e",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T06:49:57.306Z[UTC]",
+  "searchQuery" : "euge d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-20T06:49:59.366Z[UTC]",
+  "searchQuery" : "euge diaz",
+  "searchInteractionURIs" : [ "spotify:user:dra.mediaz" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-20T06:50:21.024Z[UTC]",
+  "searchQuery" : "euge.011",
+  "searchInteractionURIs" : [ "spotify:playlist:0ttoGkAUO7NZXCuVwUO2aa" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:39.766Z[UTC]",
+  "searchQuery" : "se",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:42.367Z[UTC]",
+  "searchQuery" : "sebastia",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.772Z[UTC]",
+  "searchQuery" : "sebastian bef",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.833Z[UTC]",
+  "searchQuery" : "sebastian ingrosso",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.833Z[UTC]",
+  "searchQuery" : "sebastian forno",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.833Z[UTC]",
+  "searchQuery" : "sebastian bach",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.849Z[UTC]",
+  "searchQuery" : "sebastian bea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.910Z[UTC]",
+  "searchQuery" : "sebastian befo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.957Z[UTC]",
+  "searchQuery" : "sebastian forno",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.958Z[UTC]",
+  "searchQuery" : "sebastian fox",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.958Z[UTC]",
+  "searchQuery" : "sebastian forslund",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-20T19:34:43.964Z[UTC]",
+  "searchQuery" : "sebastian romero",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-20T19:34:46.092Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-22T06:43:07.817Z[UTC]",
+  "searchQuery" : "lv",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-22T06:43:08.383Z[UTC]",
+  "searchQuery" : "lve rock",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIdQRQTDOpgee", "spotify:playlist:2OnRoKvfz7hUGFKmGVIaWk" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-22T06:44:04.421Z[UTC]",
+  "searchQuery" : "rock ball",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1DWXs1L3AC0Xio", "spotify:playlist:37i9dQZF1EIfIFFtPLzMo0", "spotify:playlist:5TG3Ys14u3KA2bH9RaRAxZ", "spotify:playlist:37i9dQZF1DX82Zzp6AKx64" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-24T06:46:06.887Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-24T17:42:48.053Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-24T17:42:48.177Z[UTC]",
+  "searchQuery" : "se",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-24T17:42:50.409Z[UTC]",
+  "searchQuery" : "sebasti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-24T17:42:51.370Z[UTC]",
+  "searchQuery" : "sebastian b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-24T17:43:00.229Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-24T17:43:28.064Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:12.382Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:12.559Z[UTC]",
+  "searchQuery" : "se",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:14.447Z[UTC]",
+  "searchQuery" : "sebastia",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:14.739Z[UTC]",
+  "searchQuery" : "sebastian ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.598Z[UTC]",
+  "searchQuery" : "sebastian bed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.655Z[UTC]",
+  "searchQuery" : "sebastian bach",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.657Z[UTC]",
+  "searchQuery" : "sebastian yatra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.661Z[UTC]",
+  "searchQuery" : "sebastian esquivel",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.675Z[UTC]",
+  "searchQuery" : "sebastian bedoya kika",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.760Z[UTC]",
+  "searchQuery" : "sebastian bedo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-25T05:30:16.960Z[UTC]",
+  "searchQuery" : "sebastian bedol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-25T05:30:17.339Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-25T05:30:17.608Z[UTC]",
+  "searchQuery" : "sebastian bedolla",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-25T05:30:30.107Z[UTC]",
+  "searchQuery" : "sebastian bedolla",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-26T03:43:42.531Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-26T03:43:42.675Z[UTC]",
+  "searchQuery" : "se",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-26T03:43:48.363Z[UTC]",
+  "searchQuery" : "sebas",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-26T03:43:51.150Z[UTC]",
+  "searchQuery" : "sebastian b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-26T03:43:52.794Z[UTC]",
+  "searchQuery" : "sebastian bed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-26T03:43:55.300Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:36.480Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:36.599Z[UTC]",
+  "searchQuery" : "sev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:37.727Z[UTC]",
+  "searchQuery" : "seba",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:38.830Z[UTC]",
+  "searchQuery" : "sebastian ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:39.015Z[UTC]",
+  "searchQuery" : "sebastian b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:39.194Z[UTC]",
+  "searchQuery" : "sebastian be",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-28T20:08:39.361Z[UTC]",
+  "searchQuery" : "sebastian bed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-28T20:08:41.983Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:50.472Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:52.685Z[UTC]",
+  "searchQuery" : "sev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:52.697Z[UTC]",
+  "searchQuery" : "sevast",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:52.698Z[UTC]",
+  "searchQuery" : "seva",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:52.739Z[UTC]",
+  "searchQuery" : "sevas",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:55.122Z[UTC]",
+  "searchQuery" : "sebasti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:55.844Z[UTC]",
+  "searchQuery" : "sebastian ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:31:58.556Z[UTC]",
+  "searchQuery" : "sebastian bedo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-30T15:31:59.372Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:13.433Z[UTC]",
+  "searchQuery" : "ra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:15.993Z[UTC]",
+  "searchQuery" : "rakahe",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:16.053Z[UTC]",
+  "searchQuery" : "rakatendo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:16.054Z[UTC]",
+  "searchQuery" : "rakhe rakhanhaar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:16.054Z[UTC]",
+  "searchQuery" : "rakhe rakhanhar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:16.068Z[UTC]",
+  "searchQuery" : "rakhe rakenahar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:19.537Z[UTC]",
+  "searchQuery" : "rakahw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:19.600Z[UTC]",
+  "searchQuery" : "rakahbus first album",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:19.602Z[UTC]",
+  "searchQuery" : "rakahbus top albums",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:19.605Z[UTC]",
+  "searchQuery" : "rakahbus top songs",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:19.609Z[UTC]",
+  "searchQuery" : "rakahbus songs",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-04-30T15:32:19.761Z[UTC]",
+  "searchQuery" : "rakahwa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-30T15:32:20.573Z[UTC]",
+  "searchQuery" : "rakahwag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-04-30T15:32:20.625Z[UTC]",
+  "searchQuery" : "rakahwagi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-04-30T15:32:20.786Z[UTC]",
+  "searchQuery" : "rakahwagi",
+  "searchInteractionURIs" : [ "spotify:user:rashid_kahwagi" ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-05-02T07:44:24.978Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-05-02T07:44:25.074Z[UTC]",
+  "searchQuery" : "ge",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:44:25.738Z[UTC]",
+  "searchQuery" : "gema",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:44:25.741Z[UTC]",
+  "searchQuery" : "geman",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-05-02T07:44:26.121Z[UTC]",
+  "searchQuery" : "geman p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:45:11.490Z[UTC]",
+  "searchQuery" : "ge ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:45:11.784Z[UTC]",
+  "searchQuery" : "ger ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:45:12.025Z[UTC]",
+  "searchQuery" : "germa ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:45:12.713Z[UTC]",
+  "searchQuery" : "german p ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-05-02T07:45:16.508Z[UTC]",
+  "searchQuery" : "german ps ",
+  "searchInteractionURIs" : [ "spotify:user:luisgermanps" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:46:13.356Z[UTC]",
+  "searchQuery" : "alon",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:46:13.357Z[UTC]",
+  "searchQuery" : "al",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:46:13.359Z[UTC]",
+  "searchQuery" : "alonso",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:46:13.359Z[UTC]",
+  "searchQuery" : "alons",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:46:13.362Z[UTC]",
+  "searchQuery" : "alo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:46:15.348Z[UTC]",
+  "searchQuery" : "alonso may",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-05-02T07:46:18.413Z[UTC]",
+  "searchQuery" : "alonso mayprga",
+  "searchInteractionURIs" : [ "spotify:user:x25dw0u4mytkq8gbkz8bfkcfb" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:47:02.559Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:47:03.625Z[UTC]",
+  "searchQuery" : "fabbag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:47:05.254Z[UTC]",
+  "searchQuery" : "faba",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-02T07:47:09.930Z[UTC]",
+  "searchQuery" : "fabags",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-05-02T07:47:10.390Z[UTC]",
+  "searchQuery" : "fabagsh",
+  "searchInteractionURIs" : [ "spotify:user:31be5p22i5543jioj7ajrqphpjhq" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-05-03T18:52:03.363Z[UTC]",
+  "searchQuery" : "ae",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:18.940Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:19.964Z[UTC]",
+  "searchQuery" : "sev",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:22.556Z[UTC]",
+  "searchQuery" : "sebas",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:24.553Z[UTC]",
+  "searchQuery" : "sebastian be",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:24.781Z[UTC]",
+  "searchQuery" : "sebastian bed",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:24.945Z[UTC]",
+  "searchQuery" : "sebastian bedo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:25.201Z[UTC]",
+  "searchQuery" : "sebastian bedol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-05-03T18:52:25.334Z[UTC]",
+  "searchQuery" : "sebastian bedoll",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-05-03T18:52:25.858Z[UTC]",
+  "searchQuery" : "sebastian bedolla",
+  "searchInteractionURIs" : [ "spotify:user:chemaplayer14" ]
+} ]

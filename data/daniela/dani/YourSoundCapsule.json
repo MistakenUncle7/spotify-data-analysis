@@ -1,0 +1,27 @@
+{
+  "stats" : [ {
+    "date" : "2026-04-20",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Acurrucar",
+      "streamCount" : 1,
+      "secondsPlayed" : 48
+    }, {
+      "name" : "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
+      "streamCount" : 1,
+      "secondsPlayed" : 33
+    } ],
+    "topArtists" : [ {
+      "name" : "Ed Maverick",
+      "streamCount" : 1,
+      "secondsPlayed" : 48
+    }, {
+      "name" : "Rodrigo Amarante",
+      "streamCount" : 1,
+      "secondsPlayed" : 33
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ ]
+}
