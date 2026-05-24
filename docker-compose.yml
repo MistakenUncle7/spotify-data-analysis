@@ -1,0 +1,43 @@
+services:
+
+  jupyter:
+    build: .
+    container_name: spotify-jupyter
+
+    ports:
+      - "8888:8888"
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: >
+      jupyter notebook
+      --ip=0.0.0.0
+      --port=8888
+      --allow-root
+      --NotebookApp.token=''
+
+    stdin_open: true
+    tty: true
+
+  streamlit:
+    build: .
+    container_name: spotify-streamlit
+
+    ports:
+      - "8501:8501"
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: >
+      streamlit run dashboard/app.py
+      --server.address=0.0.0.0
+      --server.port=8501
+
+    stdin_open: true
+    tty: true
