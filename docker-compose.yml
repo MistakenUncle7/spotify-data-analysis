@@ -35,7 +35,7 @@ services:
     working_dir: /app
 
     command: >
-      streamlit run dashboard/app.py
+      streamlit run streamlit.py
       --server.address=0.0.0.0
       --server.port=8501
 

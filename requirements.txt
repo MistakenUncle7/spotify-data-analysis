@@ -5,8 +5,6 @@ ipykernel
 
 streamlit
 
-duckdb
-
 pandas
 numpy
 
