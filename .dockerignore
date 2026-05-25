@@ -7,6 +7,7 @@ __pycache__
 
 data/cleansed
 data/features
+data/raw/consolidated_raw.parquet
 
 .git
 .gitignore
